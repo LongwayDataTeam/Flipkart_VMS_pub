@@ -1,4 +1,4 @@
-name: Run Private Repo Script
+name: Flipkart_VMS
 
 on:
   schedule:
